@@ -97,6 +97,6 @@ Organización del Proyecto
 -	2_TRUSTED: Almacena el DataFrame limpio y las observaciones a predecir.
 -	3_REFINED: Contiene los resultados de las predicciones y las observaciones no identificadas.
 -	ordinal_encoders.joblib: Modelo de Label Encoder guardado.
-![image](https://github.com/andrespuertag/Proyecto-Integrador-Grupo-4/assets/102886335/dd5c27cf-9366-4b39-bb40-5d812e0596c2)
+
 
 
